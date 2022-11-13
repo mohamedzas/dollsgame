@@ -1,0 +1,1361 @@
+{
+    "1_1": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "2_1": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "3_1": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "5_1": {
+        "pink": 60,
+        "sport": 20,
+        "glam": 110,
+        "retro": 40,
+        "cool": 60
+    },
+    "6_1": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "1_2": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "2_2": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "3_2": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "6_2": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "1_3": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_3": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_3": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "6_3": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_4": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_4": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_4": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "6_4": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_5": {
+        "pink": 70,
+        "sport": 30,
+        "glam": 50,
+        "retro": 120,
+        "cool": 40
+    },
+    "2_5": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 30,
+        "retro": 100,
+        "cool": 20
+    },
+    "3_5": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 30,
+        "retro": 100,
+        "cool": 20
+    },
+    "6_5": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 30,
+        "retro": 100,
+        "cool": 20
+    },
+    "1_6": {
+        "pink": 120,
+        "sport": 70,
+        "glam": 50,
+        "retro": 30,
+        "cool": 40
+    },
+    "2_6": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 30,
+        "retro": 10,
+        "cool": 20
+    },
+    "3_6": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 30,
+        "retro": 10,
+        "cool": 20
+    },
+    "5_2": {
+        "pink": 110,
+        "sport": 60,
+        "glam": 40,
+        "retro": 20,
+        "cool": 30
+    },
+    "6_6": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 30,
+        "retro": 10,
+        "cool": 20
+    },
+    "1_7": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "4_1": {
+        "pink": 20,
+        "sport": 40,
+        "glam": 20,
+        "retro": 100,
+        "cool": 200
+    },
+    "6_7": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_8": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "4_2": {
+        "pink": 20,
+        "sport": 40,
+        "glam": 20,
+        "retro": 100,
+        "cool": 200
+    },
+    "6_8": {
+        "pink": 10,
+        "sport": 20,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_9": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "4_3": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 20,
+        "retro": 200,
+        "cool": 100
+    },
+    "6_9": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "1_10": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 30,
+        "retro": 100,
+        "cool": 50
+    },
+    "4_4": {
+        "pink": 100,
+        "sport": 20,
+        "glam": 60,
+        "retro": 200,
+        "cool": 100
+    },
+    "5_3": {
+        "pink": 60,
+        "sport": 20,
+        "glam": 40,
+        "retro": 110,
+        "cool": 60
+    },
+    "6_10": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 30,
+        "retro": 100,
+        "cool": 50
+    },
+    "1_11": {
+        "pink": 20,
+        "sport": 110,
+        "glam": 60,
+        "retro": 40,
+        "cool": 60
+    },
+    "2_7": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 50,
+        "retro": 30,
+        "cool": 50
+    },
+    "3_7": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 50,
+        "retro": 30,
+        "cool": 50
+    },
+    "6_11": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 50,
+        "retro": 30,
+        "cool": 50
+    },
+    "1_12": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 50,
+        "cool": 30
+    },
+    "4_5": {
+        "pink": 200,
+        "sport": 100,
+        "glam": 20,
+        "retro": 100,
+        "cool": 60
+    },
+    "6_12": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 50,
+        "cool": 30
+    },
+    "1_13": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 10,
+        "cool": 20
+    },
+    "2_8": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 10,
+        "cool": 20
+    },
+    "3_8": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 10,
+        "cool": 20
+    },
+    "6_13": {
+        "pink": 100,
+        "sport": 50,
+        "glam": 10,
+        "retro": 10,
+        "cool": 20
+    },
+    "1_14": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "2_9": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "3_9": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "5_4": {
+        "pink": 40,
+        "sport": 110,
+        "glam": 20,
+        "retro": 20,
+        "cool": 60
+    },
+    "6_14": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "1_15": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_10": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_10": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "6_15": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_16": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 30
+    },
+    "2_11": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 30
+    },
+    "3_11": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 30
+    },
+    "6_16": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 30
+    },
+    "1_17": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 100,
+        "cool": 30
+    },
+    "4_6": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 40,
+        "retro": 200,
+        "cool": 60
+    },
+    "6_17": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 100,
+        "cool": 30
+    },
+    "1_18": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "2_12": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "3_12": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "6_18": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 10,
+        "retro": 100,
+        "cool": 50
+    },
+    "1_19": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "2_13": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "3_13": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "6_19": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 10,
+        "retro": 10,
+        "cool": 50
+    },
+    "1_20": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 10,
+        "retro": 10,
+        "cool": 30
+    },
+    "4_7": {
+        "pink": 200,
+        "sport": 20,
+        "glam": 20,
+        "retro": 20,
+        "cool": 60
+    },
+    "6_20": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 10,
+        "retro": 10,
+        "cool": 30
+    },
+    "1_21": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_14": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_14": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "5_5": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 30,
+        "retro": 60,
+        "cool": 110
+    },
+    "6_21": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_22": {
+        "pink": 120,
+        "sport": 30,
+        "glam": 50,
+        "retro": 40,
+        "cool": 50
+    },
+    "4_8": {
+        "pink": 200,
+        "sport": 20,
+        "glam": 60,
+        "retro": 40,
+        "cool": 60
+    },
+    "6_22": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 30,
+        "retro": 20,
+        "cool": 30
+    },
+    "1_23": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 100,
+        "cool": 50
+    },
+    "4_9": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 40,
+        "retro": 200,
+        "cool": 100
+    },
+    "5_6": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 30,
+        "retro": 110,
+        "cool": 60
+    },
+    "6_23": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 20,
+        "retro": 100,
+        "cool": 50
+    },
+    "1_24": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 10,
+        "retro": 50,
+        "cool": 20
+    },
+    "2_15": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 10,
+        "retro": 50,
+        "cool": 20
+    },
+    "3_15": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 10,
+        "retro": 50,
+        "cool": 20
+    },
+    "6_24": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 10,
+        "retro": 50,
+        "cool": 20
+    },
+    "1_25": {
+        "pink": 50,
+        "sport": 100,
+        "glam": 50,
+        "retro": 50,
+        "cool": 40
+    },
+    "2_16": {
+        "pink": 50,
+        "sport": 100,
+        "glam": 50,
+        "retro": 50,
+        "cool": 40
+    },
+    "3_16": {
+        "pink": 50,
+        "sport": 100,
+        "glam": 50,
+        "retro": 50,
+        "cool": 40
+    },
+    "6_25": {
+        "pink": 50,
+        "sport": 100,
+        "glam": 50,
+        "retro": 50,
+        "cool": 40
+    },
+    "1_26": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 70,
+        "retro": 30,
+        "cool": 30
+    },
+    "4_10": {
+        "pink": 20,
+        "sport": 200,
+        "glam": 140,
+        "retro": 60,
+        "cool": 60
+    },
+    "6_26": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 70,
+        "retro": 30,
+        "cool": 30
+    },
+    "1_27": {
+        "pink": 30,
+        "sport": 30,
+        "glam": 120,
+        "retro": 40,
+        "cool": 70
+    },
+    "4_11": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 200,
+        "retro": 40,
+        "cool": 100
+    },
+    "6_27": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 20,
+        "cool": 50
+    },
+    "1_28": {
+        "pink": 80,
+        "sport": 20,
+        "glam": 110,
+        "retro": 20,
+        "cool": 60
+    },
+    "2_17": {
+        "pink": 70,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "3_17": {
+        "pink": 70,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "6_28": {
+        "pink": 70,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "1_29": {
+        "pink": 30,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "2_18": {
+        "pink": 30,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "3_18": {
+        "pink": 30,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "6_29": {
+        "pink": 30,
+        "sport": 10,
+        "glam": 100,
+        "retro": 10,
+        "cool": 50
+    },
+    "1_30": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 30,
+        "retro": 20,
+        "cool": 30
+    },
+    "2_19": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 30,
+        "retro": 20,
+        "cool": 30
+    },
+    "3_19": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 30,
+        "retro": 20,
+        "cool": 30
+    },
+    "6_30": {
+        "pink": 30,
+        "sport": 100,
+        "glam": 30,
+        "retro": 20,
+        "cool": 30
+    },
+    "1_31": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 20
+    },
+    "4_12": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 200,
+        "retro": 60,
+        "cool": 40
+    },
+    "5_7": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 110,
+        "retro": 40,
+        "cool": 30
+    },
+    "6_31": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 20
+    },
+    "1_32": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_20": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_20": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 50,
+        "cool": 100
+    },
+    "6_32": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_33": {
+        "pink": 70,
+        "sport": 30,
+        "glam": 90,
+        "retro": 70,
+        "cool": 120
+    },
+    "2_21": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 70,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_21": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 70,
+        "retro": 50,
+        "cool": 100
+    },
+    "5_8": {
+        "pink": 60,
+        "sport": 20,
+        "glam": 80,
+        "retro": 60,
+        "cool": 110
+    },
+    "6_33": {
+        "pink": 50,
+        "sport": 10,
+        "glam": 70,
+        "retro": 50,
+        "cool": 100
+    },
+    "1_34": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "4_13": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 200,
+        "retro": 60,
+        "cool": 100
+    },
+    "6_34": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 50
+    },
+    "1_35": {
+        "pink": 100,
+        "sport": 20,
+        "glam": 50,
+        "retro": 10,
+        "cool": 50
+    },
+    "2_22": {
+        "pink": 100,
+        "sport": 20,
+        "glam": 50,
+        "retro": 10,
+        "cool": 50
+    },
+    "3_22": {
+        "pink": 100,
+        "sport": 20,
+        "glam": 50,
+        "retro": 10,
+        "cool": 50
+    },
+    "6_35": {
+        "pink": 100,
+        "sport": 20,
+        "glam": 50,
+        "retro": 10,
+        "cool": 50
+    },
+    "1_36": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 40
+    },
+    "2_23": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 40
+    },
+    "3_23": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 40
+    },
+    "5_9": {
+        "pink": 20,
+        "sport": 60,
+        "glam": 20,
+        "retro": 110,
+        "cool": 50
+    },
+    "6_36": {
+        "pink": 10,
+        "sport": 50,
+        "glam": 10,
+        "retro": 100,
+        "cool": 40
+    },
+    "1_37": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 30,
+        "retro": 20,
+        "cool": 40
+    },
+    "2_24": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 30,
+        "retro": 20,
+        "cool": 40
+    },
+    "3_24": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 30,
+        "retro": 20,
+        "cool": 40
+    },
+    "5_10": {
+        "pink": 110,
+        "sport": 20,
+        "glam": 40,
+        "retro": 30,
+        "cool": 50
+    },
+    "6_37": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 30,
+        "retro": 20,
+        "cool": 40
+    },
+    "1_38": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 90,
+        "retro": 30,
+        "cool": 30
+    },
+    "4_14": {
+        "pink": 200,
+        "sport": 20,
+        "glam": 180,
+        "retro": 60,
+        "cool": 60
+    },
+    "6_38": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 90,
+        "retro": 30,
+        "cool": 30
+    },
+    "1_39": {
+        "pink": 110,
+        "sport": 60,
+        "glam": 120,
+        "retro": 80,
+        "cool": 100
+    },
+    "2_25": {
+        "pink": 90,
+        "sport": 40,
+        "glam": 100,
+        "retro": 60,
+        "cool": 80
+    },
+    "3_25": {
+        "pink": 90,
+        "sport": 40,
+        "glam": 100,
+        "retro": 60,
+        "cool": 80
+    },
+    "6_39": {
+        "pink": 90,
+        "sport": 40,
+        "glam": 100,
+        "retro": 60,
+        "cool": 80
+    },
+    "1_40": {
+        "pink": 90,
+        "sport": 110,
+        "glam": 30,
+        "retro": 40,
+        "cool": 60
+    },
+    "4_15": {
+        "pink": 160,
+        "sport": 200,
+        "glam": 40,
+        "retro": 60,
+        "cool": 100
+    },
+    "6_40": {
+        "pink": 80,
+        "sport": 100,
+        "glam": 20,
+        "retro": 30,
+        "cool": 50
+    },
+    "1_41": {
+        "pink": 90,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 60
+    },
+    "2_26": {
+        "pink": 90,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 60
+    },
+    "3_26": {
+        "pink": 90,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 60
+    },
+    "6_41": {
+        "pink": 90,
+        "sport": 10,
+        "glam": 100,
+        "retro": 30,
+        "cool": 60
+    },
+    "1_42": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 40,
+        "retro": 40,
+        "cool": 70
+    },
+    "2_27": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 40,
+        "retro": 40,
+        "cool": 70
+    },
+    "3_27": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 40,
+        "retro": 40,
+        "cool": 70
+    },
+    "5_11": {
+        "pink": 20,
+        "sport": 110,
+        "glam": 50,
+        "retro": 50,
+        "cool": 80
+    },
+    "6_42": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 40,
+        "retro": 40,
+        "cool": 70
+    },
+    "1_43": {
+        "pink": 40,
+        "sport": 60,
+        "glam": 100,
+        "retro": 90,
+        "cool": 110
+    },
+    "4_16": {
+        "pink": 60,
+        "sport": 100,
+        "glam": 180,
+        "retro": 160,
+        "cool": 200
+    },
+    "6_43": {
+        "pink": 30,
+        "sport": 50,
+        "glam": 90,
+        "retro": 80,
+        "cool": 100
+    },
+    "1_44": {
+        "pink": 110,
+        "sport": 80,
+        "glam": 70,
+        "retro": 120,
+        "cool": 90
+    },
+    "2_28": {
+        "pink": 90,
+        "sport": 60,
+        "glam": 50,
+        "retro": 100,
+        "cool": 70
+    },
+    "3_28": {
+        "pink": 90,
+        "sport": 60,
+        "glam": 50,
+        "retro": 100,
+        "cool": 70
+    },
+    "5_12": {
+        "pink": 100,
+        "sport": 70,
+        "glam": 60,
+        "retro": 110,
+        "cool": 80
+    },
+    "6_44": {
+        "pink": 90,
+        "sport": 60,
+        "glam": 50,
+        "retro": 100,
+        "cool": 70
+    },
+    "1_45": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 100,
+        "cool": 30
+    },
+    "4_17": {
+        "pink": 20,
+        "sport": 20,
+        "glam": 100,
+        "retro": 200,
+        "cool": 60
+    },
+    "6_45": {
+        "pink": 10,
+        "sport": 10,
+        "glam": 50,
+        "retro": 100,
+        "cool": 30
+    },
+    "1_46": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 100,
+        "retro": 40,
+        "cool": 50
+    },
+    "2_29": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 100,
+        "retro": 40,
+        "cool": 50
+    },
+    "3_29": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 100,
+        "retro": 40,
+        "cool": 50
+    },
+    "6_46": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 100,
+        "retro": 40,
+        "cool": 50
+    },
+    "1_47": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 80,
+        "retro": 20,
+        "cool": 60
+    },
+    "4_18": {
+        "pink": 200,
+        "sport": 20,
+        "glam": 160,
+        "retro": 40,
+        "cool": 120
+    },
+    "6_47": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 80,
+        "retro": 20,
+        "cool": 60
+    },
+    "1_48": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 50,
+        "retro": 30,
+        "cool": 40
+    },
+    "2_30": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 50,
+        "retro": 30,
+        "cool": 40
+    },
+    "3_30": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 50,
+        "retro": 30,
+        "cool": 40
+    },
+    "5_13": {
+        "pink": 110,
+        "sport": 20,
+        "glam": 60,
+        "retro": 40,
+        "cool": 50
+    },
+    "6_48": {
+        "pink": 100,
+        "sport": 10,
+        "glam": 50,
+        "retro": 30,
+        "cool": 40
+    },
+    "1_49": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 30,
+        "retro": 40,
+        "cool": 50
+    },
+    "4_19": {
+        "pink": 20,
+        "sport": 200,
+        "glam": 60,
+        "retro": 80,
+        "cool": 100
+    },
+    "6_49": {
+        "pink": 10,
+        "sport": 100,
+        "glam": 30,
+        "retro": 40,
+        "cool": 50
+    },
+    "1_50": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "2_31": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "3_31": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    },
+    "6_50": {
+        "pink": 10,
+        "sport": 30,
+        "glam": 10,
+        "retro": 50,
+        "cool": 100
+    }
+
+}
