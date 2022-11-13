@@ -1,0 +1,152 @@
+{
+  "id": 565,
+  "name": "road_to_royalty_battle_of_dolls",
+  "title": "Road To Royalty: Battle Of Dolls",
+  "rebrandName": "",
+  "prinxySlug": "",
+  "portal": "Gamerina",
+  "core": "v0.3",
+  "sdks": [],
+    "publishers": [
+      {
+        "id": 9,
+        "name": "crazygames.com",
+        "domain": "kids.crazygames.com",
+        "domain_id": 1376,
+        "ads_positions": [
+ 
+        ],
+        "timer_ads_positions": [
+
+        ],
+        "timer_between_ads": 0,
+        "first_timer": 0,
+        "timer_resets_on_click": 0,
+        "ad_unit": "",
+        "ads_locked": 0,
+        "whitelist": 1,
+        "locked": 0,
+        "ads_cap": 0,
+        "optional": {
+          "outgoing": [
+            {
+              "url": "",
+              "utm": "0",
+              "show": "0",
+              "unit": "",
+              "xpos": "",
+              "ypos": "",
+              "zone": "logo_button",
+              "block": "1",
+              "image": "",
+              "remove": "0"
+            },
+            {
+              "zone": "preloader",
+              "unit": "",
+              "url": "",
+              "image": "",
+              "xpos": "",
+              "ypos": "",
+              "block": "1",
+              "remove": "0",
+              "utm": "0",
+              "show": "1"
+            },
+            {
+              "url": "",
+              "utm": "0",
+              "show": "0",
+              "unit": "",
+              "xpos": "",
+              "ypos": "",
+              "zone": "mg",
+              "block": "1",
+              "image": "",
+              "remove": "0"
+            },
+            {
+              "zone": "mg",
+              "unit": "level_select",
+              "url": "https://prinxy.app/",
+              "image": "",
+              "xpos": "",
+              "ypos": "",
+              "block": "0",
+              "remove": "0",
+              "utm": "1",
+              "show": "0"
+            },
+            {
+              "zone": "facebook",
+              "unit": "",
+              "url": "",
+              "image": "",
+              "xpos": "",
+              "ypos": "",
+              "block": "0",
+              "remove": "0",
+              "utm": "0",
+              "show": "0"
+            },
+            {
+              "zone": "youtube",
+              "unit": "",
+              "url": "",
+              "image": "",
+              "xpos": "",
+              "ypos": "",
+              "block": "0",
+              "remove": "0",
+              "utm": "0",
+              "show": "0"
+            },
+            {
+              "zone": "mg",
+              "unit": "end_screen",
+              "url": "https://prinxy.app/",
+              "image": "",
+              "xpos": "",
+              "ypos": "",
+              "block": "0",
+              "remove": "0",
+              "utm": "1",
+              "show": "0"
+            },
+            {
+              "url": "",
+              "utm": "0",
+              "show": "0",
+              "unit": "",
+              "xpos": "",
+              "ypos": "",
+              "zone": "developer",
+              "block": "0",
+              "image": "",
+              "remove": "0"
+            },
+            {
+              "url": "",
+              "utm": "0",
+              "show": "0",
+              "unit": "",
+              "xpos": "",
+              "ypos": "",
+              "zone": "music",
+              "block": "0",
+              "image": "",
+              "remove": "0"
+            }
+          ],
+          "fullscreen": {
+            "hide": 1
+          }
+        },
+        "rebrand": "1",
+        "hide_splash": "0",
+        "force_language": "",
+        "needs_consent": 0,
+        "show_related": 0
+      }
+    ]
+  }
